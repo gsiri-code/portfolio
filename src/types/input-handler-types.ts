@@ -1,5 +1,5 @@
 import type { Terminal } from "@xterm/xterm";
-import type { Ref, RefObject } from "react";
+import type { RefObject } from "react";
 
 export enum InputType {
   ENTER = "\r",
